@@ -35,7 +35,7 @@ $ git clone https://github.com/PietarTheWise/ft_printf.git
 $ make
 # in command line
 
-# Compile the library with gcc and call the function in your file like you do with other libraries.
+# Compile the your code with gcc and call the function in your file like you do with other libraries.
 
 ```
 
