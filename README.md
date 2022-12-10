@@ -7,16 +7,16 @@
 
 <!-- {% include youtube.html id="A3QtEFnUzeQ" %} -->
 
-<h3 align="center">My take on the famous printf function of standar c library. Welcome to the edge case hell of a project.</h3>
+<h3 align="center">My take on the famous printf function of standard c library. Welcome to the edge case hell of a project.</h3>
 
 <p align="center">
-  <a href="#what-it-does">What it does?</a> •
+  <a href="#what-does-it-do">What does it do?</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#disclaimer">Disclaimer</a>
 </p>
 
 
-## What it does?
+## What does it do?
 
 * A replication of the standard c library's printf function.
 * Uses varargs so you can format n number of values into a string.
