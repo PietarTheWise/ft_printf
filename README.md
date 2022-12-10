@@ -42,7 +42,7 @@ $ make
 ## DISCLAIMER
 
 <p>
-This is a project from 42 school, which is a school that utilizes peer to peer learning.
+This is a project from the 42 school, which is a school that utilizes peer to peer learning.
 We're only given a document that gives us the details of the assignment, therefore each implementation
 is unique. Each assignment is tested for crashes and other bugs thoroughly by other peers. Apart from some exceptions, existing
 libraries are banned, these projects utilize our self made version of libc called libft.
